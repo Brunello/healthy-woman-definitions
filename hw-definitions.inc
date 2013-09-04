@@ -5,6 +5,7 @@ $definitions = array(
     '02896ANMENABC-ACS' => '<p>Being a healthy mom can be rewarding.</p><p>Enroll in the <PROGRAM TITLE> program and receive a customized Society onesie for your new little one!</p>',
   ),
   'article_content' => 'This is the article content. Use the same tokens to insert title or phone.',
+  'program_name_block_content' => 'This is the program name block content. Use the same tokens.',
   'high_risk_ids' => array(
     '5298',
     '5295',
