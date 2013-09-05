@@ -31,4 +31,8 @@ $definitions = array(
     '5294',
     '5300',
   ),
+  'hw_landing_pages' = array( // These are the nodes that the program block and HW Article Teaser block should show up on.
+    '3274', // Test for dev
+    '5403',
+  ),
 );
