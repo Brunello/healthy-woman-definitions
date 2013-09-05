@@ -7,6 +7,8 @@
  *   - <PROGRAM PHONE>
  *       Phone number of the program as defined in the original request's
  *       `phone` param.
+ *
+ *   (removed) -->
  *   - <HW LINK>[link_text]
  *       Creates a link to the Healthy Woman article. Specify the text oft he
  *       link in straight brackets immediately following the token. Usage:
