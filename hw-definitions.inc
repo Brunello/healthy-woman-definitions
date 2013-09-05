@@ -45,6 +45,7 @@ $definitions = array(
     'low' => array(
       'lp_nid' => '5402',
       'trigger_ids' => array(
+        '3274', // Text for dev
         '5402',
         '5292',
         '5289',
