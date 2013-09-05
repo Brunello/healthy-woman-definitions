@@ -38,7 +38,31 @@ $definitions = array(
   ),
   'hw_landing_pages' => array( // These are the nodes that the program block and HW Article Teaser block should show up on.
     '3274', // Test for dev
-    '5402',
-    '5403',
+    '5402', // low
+    '5403', // high
+  ),
+  'high_low' => array(
+    'low' => array(
+      'lp_nid' => '5402',
+      'trigger_ids' => array(
+        '5402',
+        '5292',
+        '5289',
+        '5290',
+        '5288',
+        '5393',
+      ),
+    ),
+    'high' => array(
+      'lp_nid' => '5403',
+      'trigger_ids' => array(
+        '5403',
+        '5298',
+        '5295',
+        '5296',
+        '5294',
+        '5300',
+      ),
+    ),
   ),
 );
