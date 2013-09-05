@@ -24,6 +24,7 @@ $definitions = array(
   'article_content' => 'This is the article content. Use the same tokens to insert title or phone. This is the name: <PROGRAM TITLE>, and this is the phone: <PROGRAM PHONE>', // This is the actual content of the HW page.
   'program_name_block_content' => 'This is the program name block content. Use the same tokens.',
   'hw_articles' => array( // These are the nodes that the program block should show up on.
+    '3509', // Test for dev
     '5298',
     '5295',
     '5296',
