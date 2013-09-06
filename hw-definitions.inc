@@ -22,7 +22,7 @@ $definitions = array(
     '02897ANMENABC-ACS' => hw_content('02897ANMENABC-ACS'),
   ),
   'article_content' => hw_content('article_content'), // This is the actual content of the HW page. The header image etc are in the template. This is just the body copy.
-  'program_name_block_content' => 'This is the program name block content. Use the same tokens.',
+  'program_name_block_content' => hw_content('program_name_block_content'),
   'hw_articles' => array( // These are the nodes that the program block should show up on.
     '3509', // Test for dev
     '5298',
