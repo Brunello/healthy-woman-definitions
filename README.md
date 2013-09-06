@@ -36,8 +36,8 @@ simplify the process, a helper function is provided.
 1. Create a file in the contents folder with an `.inc` extension.
 
 2. To reference the contents of the file, use the helper function
-   `hw_content()`:  
-
+   `hw_content()`.
+<b></b>
     
     hw_content('name_of_my_file');
     // Returns the contents of `/contents/name_of_my_file.inc`
