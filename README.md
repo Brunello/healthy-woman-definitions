@@ -24,3 +24,19 @@ six top-level sections:
    List of nodes that are high and low risk. Inclusion in this list triggers
    the target URL of the tab to one of the two Landing Page NIDs listed as the
    target for each group.
+
+##Include Files##
+The strings that define the contents of the blocks and pages are long and
+contain tags and quotes that would need to be escaped. To avoid using `heredoc`
+or escape characters, the contents can be defined in an include file. To
+simplify the process, a helper function is provided.
+
+**Usage**
+
+1. Create a file in the contents folder with an `.inc` extension.
+
+2. To reference the contents of the file, use the helper function
+   `hw_content()`:
+
+    `hw_content('name_of_my_file');`
+    // Returns the contents of `/contents/name_of_my_file.inc`
