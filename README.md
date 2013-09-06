@@ -38,5 +38,5 @@ simplify the process, a helper function is provided.
 2. To reference the contents of the file, use the helper function
    `hw_content()`:
 
-    `hw_content('name_of_my_file');`
-    // Returns the contents of `/contents/name_of_my_file.inc`
+   `hw_content('name_of_my_file');`
+   // Returns the contents of `/contents/name_of_my_file.inc`
