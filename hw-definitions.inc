@@ -17,11 +17,11 @@
  */
 $definitions = array(
   'formnums' => array( // These define the incentive block for each formnum.
-    'EXAMPLE' => '<p>This is an example. You can insert the Program or Phone number by using the <PROGRAM TITLE> or <PROGRAM PHONE> tokens.</p><p>Make sure you include any HTML tags and donn\'t forget to properly escape single quotes.</p>',
-    '02896ANMENABC-ACS' => '<p>Being a healthy mom can be rewarding.</p><p>Enroll in the <PROGRAM TITLE> program and receive a customized Society onesie for your new little one!</p>',
-    '02897ANMENABC-ACS' => '<p>Being a healthy mom can be rewarding.</p><p>Enroll in the <PROGRAM TITLE> program and receive a customized Society onesie for your new little one!</p>',
+    'EXAMPLE' => hw_content('EXAMPLE'),
+    '02896ANMENABC-ACS' => hw_content('02896ANMENABC-ACS'),
+    '02897ANMENABC-ACS' => hw_content('02897ANMENABC-ACS'),
   ),
-  'article_content' => 'This is the article content. Use the same tokens to insert title or phone. This is the name: <PROGRAM TITLE>, and this is the phone: <PROGRAM PHONE>', // This is the actual content of the HW page.
+  'article_content' => hw_content('article_content'), // This is the actual content of the HW page. The header image etc are in the template. This is just the body copy.
   'program_name_block_content' => 'This is the program name block content. Use the same tokens.',
   'hw_articles' => array( // These are the nodes that the program block should show up on.
     '3509', // Test for dev
@@ -67,3 +67,17 @@ $definitions = array(
     ),
   ),
 );
+
+/**
+ * Simplifies syntax for including file contents. Specific to this module.
+ *
+ * @param $filename string
+ *   The name of the file that contains the content not including the
+ *   extention (which needs to be `.inc`).
+ *
+ * @return string
+ *   The contents of the file provided or FALSE if there is an error.
+ */
+function hw_content($filename) {
+  return file_get_contents(__DIR__ . '/contents/' . $filename . '.inc');
+}

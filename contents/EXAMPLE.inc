@@ -1,0 +1,1 @@
+<p>This is an example. You can insert the Program or Phone number by using the <PROGRAM TITLE> or <PROGRAM PHONE> tokens.</p><p>Make sure you include any HTML tags and don't worry about single (or "double") quotes. If you're using an include file, both are OK.</p>
