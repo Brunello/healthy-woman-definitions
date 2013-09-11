@@ -1,1 +1,1 @@
-<p><strong>Enroll now!</strong></p><p>The <PROGRAM TITLE> program is a key component of the beneficially flourish wellness program. Employees who participate are one step closer to a wellness reward.</p>
+<p><strong>Enroll now!</strong></p><p>The <PROGRAM NAME> program is a key component of the beneficially flourish wellness program. Employees who participate are one step closer to a wellness reward.</p>
