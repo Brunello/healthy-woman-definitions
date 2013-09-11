@@ -1,0 +1,1 @@
+<p><strong>Get rewarded!</strong></p><p>Marathon Petroleum has arranged for you to receive $150 in gift cards for enrolling in <PROGRAM NAME> and completing the program. Enroll within your first trimester and receive a $50 gift card. Then complete the postpartum assessment and receive a $100 gift card. To sign up, call <PROGRAM NAME> toll-free at <PROGRAM PHONE>.</p>

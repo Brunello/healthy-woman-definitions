@@ -1,0 +1,1 @@
+<p><strong>Reap even more rewards</strong></p><p>When you enroll in and complete the <PROGRAM NAME> program, you’ll receive a special gift from Ferguson. Enroll by the first trimester and receive $150. Or receive $75 when you enroll by the second trimester.</p>

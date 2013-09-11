@@ -1,0 +1,1 @@
+<p><strong>Get Rewarded!</strong></p><p>Cintas has arranged for you to receive up to $100 of Target gift cards for enrolling in <PROGRAM NAME> and completing the program.  Enroll in your first trimester and receive a $50 Target gift card.  Complete the post-partum assessment and receive a $50 Target gift card.</p>
