@@ -13,7 +13,7 @@
  *       Creates a link to the Healthy Woman article. Specify the text oft he
  *       link in straight brackets immediately following the token. Usage:
  *       `<HW LINK>[Read More]` creates:
- *       `<a href="/[base_path]/[path to HW article as defined on the module page]">Read More</a>
+ *       `<a href="/[base_path]/[path to HW article as defined on the module page]">Read More</a>`
  */
 $definitions = array(
   'formnums' => array( // These define the incentive block for each formnum.
