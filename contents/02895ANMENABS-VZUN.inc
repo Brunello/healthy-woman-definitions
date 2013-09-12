@@ -1,0 +1,2 @@
+<p><strong>Healthier moms start with healthier information</strong></p>
+<p>Join <PROGRAM NAME> and receive two books: Your Pregnancy Week-by-Week and Your Baby's First Year Week-by-Week at no extra charge to you! These best-selling books are filled with text and pictures that follow mother and baby's journey through pregnancy. You'll also find exercise and nutrition tips, the latest product and safety information, and even guidance for dads-to-be. <PROGRAM NAME> also gives you round-the-clock access to registered nurses. Enroll now by calling <PROGRAM PHONE>.</p>

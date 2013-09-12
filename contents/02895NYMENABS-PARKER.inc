@@ -1,0 +1,1 @@
+<p>Earn a $100 Babies"R"Us gift card for completing the <PROGRAM NAME> Program</p><p>Register for <PROGRAM NAME> during the first trimester (16 weeks) and complete the follow up assessment to receive a $100 gift card! Call <PROGRAM NAME> at <PROGRAM PHONE>.</p>

@@ -1,0 +1,1 @@
+<p><strong>Get rewarded!</strong></p><p>If you enroll in <PROGRAM NAME> by your 16th week of pregnancy and complete the program, your OB/GYN's fee and the hospital fees for your delivery will be covered at 100 percent.</p>
