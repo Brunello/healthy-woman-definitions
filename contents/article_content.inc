@@ -15,7 +15,7 @@
 <li>A health assessment to make sure you and your baby stay as healthy as possible.</li>
 <li>Free phone calls with other specialists like dietitians, pharmacists, and social workers, as needed.</li>
 <li>Other useful tools to help you, your doctor, and <Maternity Management> nurse keep track of your pregnancy and spot possible risks.</li>
-</ul>
+</ul><br />
 
 <p>Sign up for <PROGRAM NAME> as soon as you find out you're pregnant. It's free for you.</p>
 
