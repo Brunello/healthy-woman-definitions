@@ -16,7 +16,7 @@
 <li>Free phone calls with other specialists like dietitians, pharmacists, and social workers, as needed.</li>
 <li>Other useful tools to help you, your doctor, and <Maternity Management> nurse keep track of your pregnancy and spot possible risks.</li>
 </ul>
-
+<br />
 <p>Sign up for <PROGRAM NAME> as soon as you find out you're pregnant. It's free for you.</p>
 
-<p><strong>Call <PROGRAM PHONE> to get started.M</strong></p>
+<p><strong>Call <PROGRAM PHONE> to get started.</strong></p>
