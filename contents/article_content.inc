@@ -1,5 +1,5 @@
-<h1 class="title recipe-title text-color1"><PROGRAM NAME> is here for you!</h1>
-<h2 class="dek">Get the support you need when you need it</h2>
+<h1 class="title recipe-title color-border"><PROGRAM NAME> is here for you!</h1>
+<p class="dek">Get the support you need when you need it</p>
 <p>Having a baby means lots of excitement and anticipation&mdash;and also lots of questions. What foods are best to eat? What kind of exercise is safe? How often should you see a doctor? That's why there's <PROGRAM NAME>. It's a program that can help you prepare for a safe delivery and a healthy child. Best of all, it's no extra cost to you with your health plan. Sign up for <PROGRAM NAME> as soon as you find out your pregnant. Call <PROGRAM PHONE> to get started.</p>
 
 <p><strong>How does <PROGRAM NAME> work?</strong></p>
